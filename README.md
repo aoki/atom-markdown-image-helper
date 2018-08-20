@@ -1,0 +1,1 @@
+# atom-markdown-image-helper
